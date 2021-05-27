@@ -1,0 +1,8 @@
+$BGN
+$PRN programa2
+$BDS
+0004
+$BCS
+SM0000
+HALT**
+$END
